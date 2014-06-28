@@ -15,3 +15,4 @@ No more missed text messages.
 ## License
 
 The project is licensed under GPLv2 for no specific reason. Suggestions welcome.
+The license can be found in [LICENSE.md](LICENSE.md)
