@@ -1,5 +1,5 @@
 ## Build status
-[![Build Status](https://travis-ci.org/mkholt/Txt-A-Holic.svg?branch=master)](https://travis-ci.org/mkholt/Txt-A-Holic)
+[![Build Status](https://travis-ci.org/mkholt/Txt-A-Holic-App.svg?branch=master)](https://travis-ci.org/mkholt/Txt-A-Holic-App)
 
 ## Synopsis
 
